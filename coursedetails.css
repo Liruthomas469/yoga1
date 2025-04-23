@@ -1,0 +1,67 @@
+#header{
+    height: 100%;
+    width: 100
+    
+
+}
+.navbar{
+    align-items: ;
+    float: right;
+    padding-left: 400px;
+    padding-right: 0px;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+}
+.logo{
+    display: flex;
+}
+.navbar ul li {
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+}
+.navbar ul li a{
+    text-decoration: none;
+    font-size: 18px;
+    position: relative;
+}
+.course{
+    background-color: blueviolet;
+    text-align: center;
+    padding: 40px;
+}
+.row{
+    display: flex;
+    width: 100%;
+    gap: 5%;
+    padding-top: 2%;
+}
+.colmn1{
+    flex-basis: 65%;
+    
+
+}
+.colmn1 img{
+height: 30%;
+width: 100%;
+}
+.colmn2{
+    flex-basis: 33%;
+    width: 100%;
+    
+}
+.colmn2 img{
+    height: 20%;
+    width: 100%;
+}
+button a{
+    text-decoration: none;
+}
+.details{
+ padding-left: 55px;
+    
+}
+
